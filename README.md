@@ -1,4 +1,4 @@
-# ceramics Wordpress site
+# Ceramics Wordpress Site
 
 After learning Wordpress for a week, we had 2 days to build our own Wordpress site. I chose to make a site for my parents pottery business.
 
